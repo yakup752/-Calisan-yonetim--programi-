@@ -1,0 +1,5 @@
+﻿206Elektrik        03.23İngilizce                   1800
+207Bilgisayar      03.80İngilizce                   2000
+208Makina          03.02İngilizce Almanca           1500
+209Elektrik        03.03İngilizce                   1000 
+210Bilgisayar      02.80İngilizce Almanca Fransızca 2800

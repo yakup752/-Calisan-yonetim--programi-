@@ -1,0 +1,164 @@
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Gorsel programlama Proje odevi.exe.config
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Gorsel programlama Proje odevi.exe
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Gorsel programlama Proje odevi.pdb
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Hosting.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\NCrontab.Signed.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Memory.Data.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.Extensions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Hosting.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\NCrontab.Signed.pdb
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Memory.Data.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel_programlama_Proje_odevi.Properties.Resources.resources
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel p.80D0F08A.Up2Date
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.exe
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.pdb
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel_programlama_Proje_odevi.Online.resources
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel_programlama_Proje_odevi.Anaform.resources
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Gorsel programlama Proje odevi.exe.config
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Gorsel programlama Proje odevi.exe
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Gorsel programlama Proje odevi.pdb
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Hosting.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\NCrontab.Signed.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Buffers.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Memory.Data.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Memory.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Text.Json.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.ValueTuple.dll
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Azure.WebJobs.Extensions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Hosting.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\NCrontab.Signed.pdb
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Buffers.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Memory.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Memory.Data.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Text.Json.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\bin\Debug\System.ValueTuple.xml
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.csproj.AssemblyReference.cache
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel_programlama_Proje_odevi.Anaform.resources
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel_programlama_Proje_odevi.Online.resources
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel_programlama_Proje_odevi.Properties.Resources.resources
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.csproj.GenerateResource.cache
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.csproj.CoreCompileInputs.cache
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel p.80D0F08A.Up2Date
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.exe
+C:\Users\lab10\Desktop\Gorsel programlama Proje odevi\Gorsel programlama Proje odevi\obj\Debug\Gorsel programlama Proje odevi.pdb

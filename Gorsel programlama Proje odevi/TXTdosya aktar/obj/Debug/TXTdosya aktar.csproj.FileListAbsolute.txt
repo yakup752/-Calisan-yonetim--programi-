@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\bin\Debug\TXTdosya aktar.exe.config
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\bin\Debug\TXTdosya aktar.exe
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\bin\Debug\TXTdosya aktar.pdb
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\obj\Debug\TXTdosya aktar.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\obj\Debug\TXTdosya_aktar.Properties.Resources.resources
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\obj\Debug\TXTdosya aktar.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\obj\Debug\TXTdosya aktar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\obj\Debug\TXTdosya aktar.exe
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\obj\Debug\TXTdosya aktar.pdb
+C:\Users\HP\Desktop\Gorsel programlama Proje odevi\TXTdosya aktar\obj\Debug\TXTdosya_aktar.Form1.resources

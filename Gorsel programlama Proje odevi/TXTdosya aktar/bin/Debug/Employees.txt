@@ -1,0 +1,18 @@
+﻿005LHasan Demir             01/05/1965Ankara      Istiklal cad. Dilek apart. no:21
+006LFevzi Yagcioglu         14/03/1972Magusa      Gazi Baf cad. no:71
+007LAlev Gezer              27/04/1977Ankara      Cumhuriyet cad. no:32 ortakoy
+008LHakan Yener             12/11/1978Magusa      Vahit Guneri cad. no:12
+009LMehmet Ucan             05/10/1960Adana       Ziya Gokalp cad. no:07
+010LEce Verel               07/12/1978Girne       Ersin Aydin sok. 12/D                                     
+105LEmrah Tekguc            30/07/1976Lefkosa     Hatay sok. no:15
+106LMehmet Soner            08/01/1967Lefkosa     Girne cad. no:32
+107LIpek Duran              16/05/1979Izmir       Palmiye sok. 3/7
+108LAhmet Vural             20/09/1964Magosa      Ulucam sok. no:18
+109LHakan Doker             31/05/1975Girne       Ecevit sok. 20/4
+110LEmre Seven              23/08/1974Lefkosa     Sinasi sok. no:35
+205SPetek Bahadir           17/02/1980Diyarbakir  Polis sok. 7/1
+206ESimge Ozenir            24/04/1979Magusa      Lala Mustafa Pasa sok. no:57
+207EHasan Yanik             13/07/1978Magusa      Gazi Baf cad no:56
+208EMeltem Baltaci          09/05/1977K.Maras     Gazi Osman pasa cad no:43
+209ESelin Uyanik            02/06/1981Istanbul    Mahmut Pasa sok no:117
+210EErol Zor                28/10/1970Lefkosa     Mehmet Akif cad. 17/A

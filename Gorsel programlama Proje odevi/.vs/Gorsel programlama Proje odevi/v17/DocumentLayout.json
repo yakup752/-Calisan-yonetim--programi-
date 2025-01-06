@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1B9EB6-DD2B-40DA-A931-AA597A8A3EB3}|Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi.csproj|c:\\users\\hp\\desktop\\gorsel programlama proje odevi\\gorsel programlama proje odevi\\online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1B9EB6-DD2B-40DA-A931-AA597A8A3EB3}|Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi.csproj|solutionrelative:gorsel programlama proje odevi\\online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1B9EB6-DD2B-40DA-A931-AA597A8A3EB3}|Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi.csproj|C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\gorsel programlama proje odevi\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1B9EB6-DD2B-40DA-A931-AA597A8A3EB3}|Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi.csproj|solutionrelative:gorsel programlama proje odevi\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1B9EB6-DD2B-40DA-A931-AA597A8A3EB3}|Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi.csproj|C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\gorsel programlama proje odevi\\online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B1B9EB6-DD2B-40DA-A931-AA597A8A3EB3}|Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi.csproj|solutionrelative:gorsel programlama proje odevi\\online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1B9EB6-DD2B-40DA-A931-AA597A8A3EB3}|Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi.csproj|C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\gorsel programlama proje odevi\\online.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1B9EB6-DD2B-40DA-A931-AA597A8A3EB3}|Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi.csproj|solutionrelative:gorsel programlama proje odevi\\online.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Online.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi\\Online.cs",
+              "RelativeDocumentMoniker": "Gorsel programlama Proje odevi\\Online.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi\\Online.cs",
+              "RelativeToolTip": "Gorsel programlama Proje odevi\\Online.cs",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAAALoBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:05:03.983Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anaform.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi\\Anaform.cs",
+              "RelativeDocumentMoniker": "Gorsel programlama Proje odevi\\Anaform.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi\\Anaform.cs",
+              "RelativeToolTip": "Gorsel programlama Proje odevi\\Anaform.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAAAHoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T07:07:00.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Online.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi\\Online.cs",
+              "RelativeDocumentMoniker": "Gorsel programlama Proje odevi\\Online.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi\\Online.cs [Design]",
+              "RelativeToolTip": "Gorsel programlama Proje odevi\\Online.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:04:57.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Online.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi\\Online.Designer.cs",
+              "RelativeDocumentMoniker": "Gorsel programlama Proje odevi\\Online.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Gorsel programlama Proje odevi\\Gorsel programlama Proje odevi\\Online.Designer.cs",
+              "RelativeToolTip": "Gorsel programlama Proje odevi\\Online.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:08:01.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
